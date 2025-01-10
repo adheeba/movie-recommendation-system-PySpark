@@ -8,6 +8,11 @@ The project has a web GUI Interface for normal users to use.
 [![webapp](data\images\streamlit_app.jpeg)]
 ## Installation
 Follow the section below to install it locally in your machine.
+### Pre requisites
+1. Have a Java development kit (JDK-21 is used in this setup) installed in your system with proper environment variable setup for PATH.
+2. Have spark and hadoop setup in your system with proper environment variables configured.
+
+The medium blog on pyspark installation can be read [here](https://medium.com/@marcelopedronidasilva/how-to-install-and-run-pyspark-locally-integrated-with-vscode-via-jupyter-notebook-on-windows-ff209ac8621f) to get more information.
 ### Installing in local machine
 Following are the steps to install this project.
 1. Download the github repo to your machine using the below command
